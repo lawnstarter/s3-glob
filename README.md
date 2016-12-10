@@ -1,3 +1,4 @@
+# FORKED AND CHANGES TO PACKAGE.JSON TO ALLOW YARN INSTALL IN NG-GULPFILE
 # s3-glob
 
 Retrieve object list entries in S3 using minimatch-style globbing.

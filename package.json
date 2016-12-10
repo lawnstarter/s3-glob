@@ -8,7 +8,7 @@
 	"homepage": "https://github.com/izaakschroeder/s3-glob",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/izaakschroeder/s3-glob.git"
+		"url": "https://github.com/lawnstarter/s3-glob.git"
 	},
 	"main": "lib/glob.js",
 	"scripts": {
@@ -34,7 +34,6 @@
 		"sinon-chai": "^2.6.0"
 	},
 	"engines" : {
-		"node" : "^0.10 || ^0.12",
-		"iojs": "^1.0.0"
+		"node" : "^0.10 || ^0.12 || ^4 || ^5 || ^6"
 	}
 }
